@@ -12,3 +12,7 @@ body{
 .navbar-inverse .navbar-brand {
 	color:#639219;
 }
+h1{
+	color: red;
+	font-weight: bold;
+}
