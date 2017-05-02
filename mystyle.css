@@ -16,3 +16,9 @@ h1{
 	color: red;
 	font-weight: bold;
 }
+.mycontainer{
+    margin: auto;
+    width: 90%;
+   /* border: 3px solid #73AD21;*/
+    padding: 10px;
+}
